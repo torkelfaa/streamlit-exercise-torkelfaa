@@ -28,7 +28,7 @@ if show_bar:
   )
 
   fig_bar.update_layout(
-      title_x = 0.5
+      title_x = 0.5,
       xaxis_title = 'Country',
       yaxis_title = 'Count',
       height = 300
